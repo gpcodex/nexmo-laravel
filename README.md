@@ -1,5 +1,5 @@
 <h2 align="center">
-    Nexmo Package for Laravel
+    Nexmo Package  for Laravel
 </h2>
 
 <p align="center">
